@@ -1,0 +1,21 @@
+START
+
+    # Input dari pengguna
+
+    Print "masukkan bilangan pertama:"
+
+    Input bilangan 1
+
+    Print "Masukkan bilangan kedua:"
+
+    Input bilangan 2
+
+    # Jumlahkan kedua bilangan
+
+    jumlah = bilangan1 + bilangan2
+
+    # Tampilkan hasil
+
+    Print "Hasil penjumlahan adalah:", jumlah
+
+END
