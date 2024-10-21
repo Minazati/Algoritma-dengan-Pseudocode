@@ -1,0 +1,21 @@
+START
+
+    # Konstanta PI
+
+    CONSTANT PI = 3.14
+
+    #Input dari pengguna
+
+    PRINT "Masukkan jari-jari lingkaran:"
+
+    INPUT jariJari
+
+    # Hitung luas
+
+    luas = PI * (jariJari * jariJari)
+
+    # Tampilkan hasil
+
+    PRINT "Luas lingkaran adalah:", luas
+
+END
