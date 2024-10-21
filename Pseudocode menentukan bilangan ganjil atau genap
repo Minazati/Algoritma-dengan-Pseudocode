@@ -1,0 +1,15 @@
+START
+    # Input dari pengguna
+
+    PRINT "Masukkan sebuah bilangan bulat:"
+    INPUT n
+
+    # Cek apakah bilangan genap atau ganjil
+
+    IF n MOD 2 == 0 THEN
+        PRINT "Bilangan adalah Genap"
+
+    ELSE
+        PRINT "Bilangan adalah Ganjil"
+  
+END
